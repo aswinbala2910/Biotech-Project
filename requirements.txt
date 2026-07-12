@@ -1,0 +1,8 @@
+streamlit
+transformers==4.53.0
+accelerate
+biopython
+scikit-learn
+pandas
+numpy
+torch
